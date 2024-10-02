@@ -1,0 +1,35 @@
+/* Pattarapong Thanakiethirun 6130300654 */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 25px;
+  }
+  
+  thead th {
+    background-color: #f2f2f2;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  tbody td {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  .book_text{
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 1300px;
+    
+  }
+
+  .booking {
+    margin: auto;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 500px;
+  }
